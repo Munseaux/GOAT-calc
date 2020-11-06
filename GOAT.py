@@ -49,7 +49,7 @@ def GOAT():
 
     GOAT_by_index = final_frame_10X2.iloc[0,0]
 
-    return "Bill Russell"
+    return GOAT_by_index
 
 if __name__ == "__main__":
     main()
